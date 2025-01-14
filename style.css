@@ -223,7 +223,7 @@ button{
 @media screen and (max-width: 768px) {
  .mortgage-calculator{
     grid-template-columns: 1fr;
-    width: 50%;
+    width: 100%;
     border-radius: 0;
 
  }
